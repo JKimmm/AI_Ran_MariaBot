@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## 안녕! 반가워요! 난 AI란 마리아에요!
+인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. 
 
-You can use the [editor on GitHub](https://github.com/JKimmm/AI_Ran_MariaBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+란 마리아는 이제 막 제작된 탓에 
+생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이래요. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 챗봇이 뭘까요?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+챗봇이 뭔지 궁금하면 물어봐요
 
-```markdown
-Syntax highlighted code block
+```궁금한 단어를 물어볼 수 있어요
 
-# Header 1
-## Header 2
-### Header 3
+# AI
+## AI
+### AI
 
 - Bulleted
 - List
