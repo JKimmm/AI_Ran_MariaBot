@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    
-    
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
   chat-title="AI_Ran_Maria_bot"
   agent-id="9e71fa10-d02e-433c-badd-855dcd231686"
   language-code="ko"
-></df-messenger>       
+></df-messenger>
+    
     
     
     
@@ -62,9 +61,9 @@
               <small>Download</small>
               .tar.gz file
             </a>
-          {% endif %}          
+          {% endif %}
  
-{% if site.github.is_project_page %}
+          {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
  
@@ -72,7 +71,6 @@
         </aside>
       </div>
     </div>
- 
  
   </body>
 </html>
