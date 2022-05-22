@@ -18,8 +18,8 @@
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. 첫번째 순서
+2. 두번째 순서
 
 **Bold** and _Italic_ and `Code` text
 
