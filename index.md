@@ -1,11 +1,9 @@
 #![AI_ (1)](https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png)     안녕! 반가워요! 난 	:desktop_computer:	AI란 마리아에요!	:ok_man:	
 ## 안녕! 반가워요! 난 AI란 마리아에요!
-인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. 
+인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요![AI_ (2)](https://user-images.githubusercontent.com/87682174/172155254-02254639-894c-402c-b037-ac8bb8186075.png). 
 
-![AI_의 사본](https://user-images.githubusercontent.com/87682174/172144079-6f418963-ab98-464d-8171-e84f9fcea2c4.png)
-![AI_의 사본 (1)](https://user-images.githubusercontent.com/87682174/172152695-6c3d1e1b-4b29-4019-900b-1f8a3ba85123.png)
 ![AI_ (3)](https://user-images.githubusercontent.com/87682174/172155070-338d2c80-d86e-4ec0-b48c-ce74ad89deab.png)
-![AI_ (2)](https://user-images.githubusercontent.com/87682174/172155254-02254639-894c-402c-b037-ac8bb8186075.png)
+
 -----------
 *란 마리아는 이제 막 제작된 탓에 
 생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이에요*
