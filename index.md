@@ -2,7 +2,7 @@
 ## 안녕! 반가워요! 난 AI란 마리아에요!
 인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. 
 
-![ai-circle](https://user-images.githubusercontent.com/87682174/172131029-ef788d8e-0899-401e-a594-8ba710301b0d.png)
+![AI_의 사본](https://user-images.githubusercontent.com/87682174/172144079-6f418963-ab98-464d-8171-e84f9fcea2c4.png)
 -----------
 *란 마리아는 이제 막 제작된 탓에 
 생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이에요*
