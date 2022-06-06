@@ -22,7 +22,7 @@ Link: [AI란 마리아봇][AIranbotlink]
 [AIranbotlink]: https://jkimmm.github.io/AI_Ran_MariaBot
 
 
- [Google](https://google.com, "google link")
+ [AI란 마리아봇]([https://google.com](https://jkimmm.github.io/AI_Ran_MariaBot)
 
 [Link]([https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png]and ![Image](![AI_ (1)](https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png)
 )
