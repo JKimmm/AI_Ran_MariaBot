@@ -1,4 +1,4 @@
-#안녕! 반가워요! 난 	:desktop_computer:	AI란 마리아에요!	:ok_man:	
+#![AI_ (1)](https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png)     안녕! 반가워요! 난 	:desktop_computer:	AI란 마리아에요!	:ok_man:	
 ## 안녕! 반가워요! 난 AI란 마리아에요!
 인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. 
 
