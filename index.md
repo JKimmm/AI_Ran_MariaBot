@@ -4,6 +4,7 @@
 
 ![AI_의 사본](https://user-images.githubusercontent.com/87682174/172144079-6f418963-ab98-464d-8171-e84f9fcea2c4.png)
 ![AI_의 사본 (1)](https://user-images.githubusercontent.com/87682174/172152695-6c3d1e1b-4b29-4019-900b-1f8a3ba85123.png)
+![AI_ (3)](https://user-images.githubusercontent.com/87682174/172155070-338d2c80-d86e-4ec0-b48c-ce74ad89deab.png)
 -----------
 *란 마리아는 이제 막 제작된 탓에 
 생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이에요*
