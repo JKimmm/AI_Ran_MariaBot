@@ -19,7 +19,7 @@
 
 
 Link: [AI란 마리아봇][AIranbotlink]
-[AIranbotlink]: https://jkimmm.github.io/AI_Ran_MariaBot) "AI란 마리아봇"
+[AIranbotlink]: https://jkimmm.github.io/AI_Ran_MariaBot "AI란 마리아봇"
 
 
  [Google](https://google.com, "google link")
