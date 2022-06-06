@@ -2,8 +2,8 @@
 ## 안녕! 반가워요! 난 AI란 마리아에요!
 인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. 
 
-란 마리아는 이제 막 제작된 탓에 
-생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이래요. 
+*란 마리아는 이제 막 제작된 탓에 
+생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이에요*
 
 
 ### 챗봇이 뭘까요?
@@ -21,7 +21,7 @@
 
 [Link](url) and ![Image](src)
 
-** URL T= ( http://bit.ly/domso)
+** [바로가기](https://jkimmm.github.io/AI_Ran_MariaBot/))
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
