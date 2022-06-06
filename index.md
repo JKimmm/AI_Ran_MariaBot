@@ -17,7 +17,7 @@
 1. 첫번째 순서
 2. 두번째 순서
 
-[Link](url) and ![Image](src)
+[Link]([https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png]and ![Image](src)
 
 ###[jkimmm.github.io/AI_Ran_MariaBot-바로가기](https://jkimmm.github.io/AI_Ran_MariaBot/)**
 
