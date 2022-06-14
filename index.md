@@ -3,6 +3,7 @@
 ## 안녕! 반가워요! 난 AI란 마리아에요!
 인공지능 챗봇 란 마리아 ![AI_ (2)](https://user-images.githubusercontent.com/87682174/172155254-02254639-894c-402c-b037-ac8bb8186075.png)에게 궁금한 점이 있으면 물어봐 주세요!. 
 
+https://user-images.githubusercontent.com/87682174/173607506-b2509920-2f3b-4b45-b202-777480a4abc1.png
 
 
 -----------
