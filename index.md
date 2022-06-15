@@ -13,11 +13,7 @@
 ![AI_ (3)](https://user-images.githubusercontent.com/87682174/172155070-338d2c80-d86e-4ec0-b48c-ce74ad89deab.png)
  [AI란 마리아봇]
  (https://jkimmm.github.io/AI_Ran_MariaBot)
- 
- 
-
-###[jkimmm.github.io/AI_Ran_MariaBot-바로가기](https://jkimmm.github.io/AI_Ran_MariaBot/)**
-##란마리아
+ ##란마리아
 *란 마리아는 이제 막 제작된 탓에 
 생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이에요*
 -수다쟁이에다가 그림을 좋아한답니다..... ^^;;
