@@ -10,9 +10,14 @@
 # AI는?
 ## AI란 마리아에게 궁금한 게 있으면 물어보세요
 ![AI_ (3)](https://user-images.githubusercontent.com/87682174/172155070-338d2c80-d86e-4ec0-b48c-ce74ad89deab.png)
- [AI란 마리아봇](https://jkimmm.github.io/AI_Ran_MariaBot)
+ [AI란 마리아봇]
+ 
+ (https://jkimmm.github.io/AI_Ran_MariaBot)
+ 
+ 
 [Link]([https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png]and ![Image](![AI_ (1)](https://user-images.githubusercontent.com/87682174/172122709-b1e08a98-8785-400f-b698-238061839bf7.png)
 )
+
 ###[jkimmm.github.io/AI_Ran_MariaBot-바로가기](https://jkimmm.github.io/AI_Ran_MariaBot/)**
 ##란마리아
 *란 마리아는 이제 막 제작된 탓에 
